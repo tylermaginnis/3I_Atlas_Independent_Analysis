@@ -1,0 +1,17 @@
+{
+  "analysis_date": "2025-11-09T20:57:06.587243",
+  "hip_id": 21684,
+  "hipparcos_query": {
+    "success": true,
+    "data": "<!-- Input on stdin (cgiprint-9.68 (2016-01-16)) -->\n\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"><HTML>\n<head>\n<title>VizieR</title>\n <!-- Include the CSS stylesheet for the CDS navbar and footer: -->\n<link href=\"/cds-navbar-resources/css/cdsnavbar.min.css\" rel=\"stylesheet\">\n<!-- Include OpenSearch engines for CDS services: -->\n<link title=\"SIMBAD\" rel=\"search\" type=\"application/opensearchdescription+xml\" href=\"/cds-navbar-resources/opensearch/simbad.xml\">\n<link title=\"VizieR\" rel=\"search\" type=\"application/opensearchdescription+xml\" href=\"/cds-navbar-resources/opensearch/vizier.xml\">\n<link title=\"Aladin\" rel=\"search\" type=\"application/opensearchdescription+xml\" href=\"/cds-navbar-resources/opensearch/aladin.xml\">\n<link title=\"XMatch\" rel=\"search\" type=\"application/opensearchdescription+xml\" href=\"/cds-navbar-resources/opensearch/xmatch.xml\">\n<META NAME='robots' content='index,nofollow'><LINK rel='stylesheet' type='text/css' href='/vizier/lib/sortable/tablesort.css'>"
+  },
+  "distance_estimates": {
+    "hyades_cluster_ly": 151.14,
+    "difference_ly": 126.13999999999999
+  },
+  "implications": {
+    "hd286941_likely_not_25ly": true,
+    "coordinates_still_significant": true,
+    "estimated_25ly_may_refer_to_something_else": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "analysis_date": "2025-11-09T21:33:26.299051",
+  "nvss_source": {
+    "identifier": "NVSS J045150+092332",
+    "type": "Radio source (Rad)",
+    "ra_deg": 72.96175,
+    "dec_deg": 9.392222,
+    "ra_hms": "04h51m50.82s",
+    "dec_dms": "+09\u00b023'32.0\"",
+    "distance_arcsec": 277.71,
+    "distance_arcmin": 4.63
+  },
+  "leda_1363602": {
+    "identifier": "LEDA 1363602",
+    "type": "Galaxy (G)",
+    "ra_deg": 72.939583,
+    "dec_deg": 9.334444,
+    "ra_hms": "04h51m45.5s",
+    "dec_dms": "+09\u00b020'04\"",
+    "distance_ly": 720000000.0,
+    "distance_mpc": 220.8,
+    "redshift": 0.053915
+  },
+  "diophantine_v3_coordinates": {
+    "ra_deg": 72.888794,
+    "dec_deg": 9.364471,
+    "ra_hms": "04h51m33.311s",
+    "dec_dms": "+09\u00b021'52.096\""
+  },
+  "separations": {
+    "nvss_vs_leda_deg": 0.061779176467817276,
+    "nvss_vs_leda_arcmin": 3.7067505880690366,
+    "nvss_vs_diophantine_deg": 0.07714506855884824,
+    "nvss_vs_diophantine_arcmin": 4.628704113530895
+  },
+  "analysis": {
+    "nvss_close_to_leda": true,
+    "nvss_could_be_galaxy_emission": true,
+    "nvss_extragalactic_possibility": true
+  },
+  "ned_query": {
+    "success": true,
+    "data": "<html><head>\n<title>Your NED Search Results</title>\n<script>\n function onSelectSDSSOption(sel) {\n    if (sel.value == 12) {\n   document.getElementById(\"sdssinfo\").action =\n    \"http://skyserver.sdss.org/dr\" + sel.value + \"/en/tools/explore/summary.aspx\";\n   }\n    else  {\n      document.getElementById(\"sdssinfo\").action =\n    \"http://cas.sdss.org/dr\" + sel.value + \"/en/tools/explore/obj.asp\";\n    }\n    }\n</script>\n<script>\n function onSelectSDSSOptionPos(sel) {\n    if (sel.value == 12) {\n   document.getElementById(\"sdssinfoPos\").action =\n    \"http://skyserver.sdss.org/dr\" + sel.value + \"/en/tools/explore/summary.aspx\";\n   }\n    else  {\n     document.getElementById(\"sdssinfoPos\").action =\n    \"http://cas.sdss.org/dr\" + sel.value + \"/en/tools/explore/obj.asp\";\n    }\n    }\n</script>\n<script>\n function onSelectSDSSOptionInt(sel) {\n   if (sel.value == 12) {\n   document.getElementById(\"sdssinfoInt\").action =\n    \"http://skyserver.sdss.org/dr\" + sel.value + \"/en/tools/chart/navi.aspx\";\n   }\n    else  {\n      document.getElementById(\"sdssinfoInt\").action =\n    \"http://cas.sdss.org/dr\" + sel.value + \"/en/tools/chart/navi.asp\";\n    }\n    }\n</script>\n</head>\n<body bgcolor=#000000 background=\"/pics/NEDBkg.jpg\">\n<center><font size=6 color=#CC3333><b>N</b></font><font size=4 color=#CCCCCCC><b>ASA/IPAC</b></font>&nbsp;<font size=6 color=#CC3333><b>E</b></font><font size=4 color=#CCCCCCC><b>XTRAGALACTIC</b></font>&nbsp;<font size=6 color=#CC3333><b>D</b></font><font size=4 color=#CCCCCCC><b>ATABASE</b></font></center>\n<center><font size=3 color=#CCCCCCC>Date and Time of the Query: 2025-11-09 T18:33:18 PST</font></center>\n<center>\n<A HREF=\"/help/objresult_help.html\" target=help><font color=\"#CCCCCC\">Help</font></A><font color=\"#CCCCCC\"> | </font><A HREF=\"/forms/comment.html\"><font color=\"#CCCCCC\">Comment</font></A><font color=\"#CCCCCC\"> | </font><A HREF=\"/\"><font color=\"#CCCCCC\">NED Home</font></A></center><br>\n<font color=#CCCCCCC><h2>You have selected the following parameters to se"
+  }
+}

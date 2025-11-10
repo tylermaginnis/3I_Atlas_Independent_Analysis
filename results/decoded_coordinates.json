@@ -1,0 +1,208 @@
+{
+  "decoding_date": "2025-11-09T20:24:35.060732",
+  "all_coordinates": [
+    {
+      "structure_number": 1,
+      "bit_string": "1011000110101011011001000000000000000",
+      "coordinate_value": 95385583616,
+      "ra_deg": 249.84695434570312,
+      "dec_deg": 11.25,
+      "ra_hms": "16h 39m 23.269s",
+      "dec_dms": "+11\u00b0 15' 00.000\""
+    },
+    {
+      "structure_number": 2,
+      "bit_string": "0110001101010110110010000000000000001",
+      "coordinate_value": 53332213761,
+      "ra_deg": 139.69528198242188,
+      "dec_deg": -67.4996566772461,
+      "ra_hms": "09h 18m 46.868s",
+      "dec_dms": "-67\u00b0 29' 58.764\""
+    },
+    {
+      "structure_number": 3,
+      "bit_string": "1100011010101101100100000000000000010",
+      "coordinate_value": 106664427522,
+      "ra_deg": 279.39056396484375,
+      "dec_deg": -44.99931335449219,
+      "ra_hms": "18h 37m 33.735s",
+      "dec_dms": "-44\u00b0 59' 57.528\""
+    },
+    {
+      "structure_number": 4,
+      "bit_string": "1000110101011011001000000000000000101",
+      "coordinate_value": 75889901573,
+      "ra_deg": 198.7811279296875,
+      "dec_deg": 0.00171661376953125,
+      "ra_hms": "13h 15m 07.471s",
+      "dec_dms": "+00\u00b0 00' 06.180\""
+    },
+    {
+      "structure_number": 5,
+      "bit_string": "0001101010110110010000000000000001010",
+      "coordinate_value": 14340849674,
+      "ra_deg": 37.563629150390625,
+      "dec_deg": -89.99656677246094,
+      "ra_hms": "02h 30m 15.271s",
+      "dec_dms": "-89\u00b0 59' 47.640\""
+    },
+    {
+      "encoding_scheme": "atlas_spectrum_phi_log3",
+      "ra_deg": 69.8016357421875,
+      "dec_deg": 11.25,
+      "ra_hms": "04h 39m 12.393s",
+      "dec_dms": "+11\u00b0 15' 00.000\""
+    },
+    {
+      "encoding_scheme": "atlas_spectrum_phi_only",
+      "ra_deg": 0.010986328125,
+      "dec_deg": -90.0,
+      "ra_hms": "00h 00m 02.637s",
+      "dec_dms": "-90\u00b0 00' 00.000\""
+    },
+    {
+      "encoding_scheme": "atlas_spectrum_log3_only",
+      "ra_deg": 69.7906494140625,
+      "dec_deg": 11.25,
+      "ra_hms": "04h 39m 09.756s",
+      "dec_dms": "+11\u00b0 15' 00.000\""
+    }
+  ],
+  "convergence_groups": [
+    {
+      "center_ra": 69.7979736328125,
+      "center_dec": 11.25,
+      "center_ra_hms": "04h 39m 11.514s",
+      "center_dec_dms": "+11\u00b0 15' 00.000\"",
+      "num_coordinates": 2,
+      "coordinates": [
+        {
+          "encoding_scheme": "atlas_spectrum_phi_log3",
+          "ra_deg": 69.8016357421875,
+          "dec_deg": 11.25,
+          "ra_hms": "04h 39m 12.393s",
+          "dec_dms": "+11\u00b0 15' 00.000\""
+        },
+        {
+          "encoding_scheme": "atlas_spectrum_log3_only",
+          "ra_deg": 69.7906494140625,
+          "dec_deg": 11.25,
+          "ra_hms": "04h 39m 09.756s",
+          "dec_dms": "+11\u00b0 15' 00.000\""
+        }
+      ]
+    },
+    {
+      "center_ra": 249.84695434570312,
+      "center_dec": 11.25,
+      "center_ra_hms": "16h 39m 23.269s",
+      "center_dec_dms": "+11\u00b0 15' 00.000\"",
+      "num_coordinates": 1,
+      "coordinates": [
+        {
+          "structure_number": 1,
+          "bit_string": "1011000110101011011001000000000000000",
+          "coordinate_value": 95385583616,
+          "ra_deg": 249.84695434570312,
+          "dec_deg": 11.25,
+          "ra_hms": "16h 39m 23.269s",
+          "dec_dms": "+11\u00b0 15' 00.000\""
+        }
+      ]
+    },
+    {
+      "center_ra": 139.69528198242188,
+      "center_dec": -67.4996566772461,
+      "center_ra_hms": "09h 18m 46.868s",
+      "center_dec_dms": "-67\u00b0 29' 58.764\"",
+      "num_coordinates": 1,
+      "coordinates": [
+        {
+          "structure_number": 2,
+          "bit_string": "0110001101010110110010000000000000001",
+          "coordinate_value": 53332213761,
+          "ra_deg": 139.69528198242188,
+          "dec_deg": -67.4996566772461,
+          "ra_hms": "09h 18m 46.868s",
+          "dec_dms": "-67\u00b0 29' 58.764\""
+        }
+      ]
+    },
+    {
+      "center_ra": 279.39056396484375,
+      "center_dec": -44.99931335449219,
+      "center_ra_hms": "18h 37m 33.735s",
+      "center_dec_dms": "-44\u00b0 59' 57.528\"",
+      "num_coordinates": 1,
+      "coordinates": [
+        {
+          "structure_number": 3,
+          "bit_string": "1100011010101101100100000000000000010",
+          "coordinate_value": 106664427522,
+          "ra_deg": 279.39056396484375,
+          "dec_deg": -44.99931335449219,
+          "ra_hms": "18h 37m 33.735s",
+          "dec_dms": "-44\u00b0 59' 57.528\""
+        }
+      ]
+    },
+    {
+      "center_ra": 198.7811279296875,
+      "center_dec": 0.00171661376953125,
+      "center_ra_hms": "13h 15m 07.471s",
+      "center_dec_dms": "+00\u00b0 00' 06.180\"",
+      "num_coordinates": 1,
+      "coordinates": [
+        {
+          "structure_number": 4,
+          "bit_string": "1000110101011011001000000000000000101",
+          "coordinate_value": 75889901573,
+          "ra_deg": 198.7811279296875,
+          "dec_deg": 0.00171661376953125,
+          "ra_hms": "13h 15m 07.471s",
+          "dec_dms": "+00\u00b0 00' 06.180\""
+        }
+      ]
+    },
+    {
+      "center_ra": 37.563629150390625,
+      "center_dec": -89.99656677246094,
+      "center_ra_hms": "02h 30m 15.271s",
+      "center_dec_dms": "-89\u00b0 59' 47.640\"",
+      "num_coordinates": 1,
+      "coordinates": [
+        {
+          "structure_number": 5,
+          "bit_string": "0001101010110110010000000000000001010",
+          "coordinate_value": 14340849674,
+          "ra_deg": 37.563629150390625,
+          "dec_deg": -89.99656677246094,
+          "ra_hms": "02h 30m 15.271s",
+          "dec_dms": "-89\u00b0 59' 47.640\""
+        }
+      ]
+    },
+    {
+      "center_ra": 0.010986328125,
+      "center_dec": -90.0,
+      "center_ra_hms": "00h 00m 02.637s",
+      "center_dec_dms": "-90\u00b0 00' 00.000\"",
+      "num_coordinates": 1,
+      "coordinates": [
+        {
+          "encoding_scheme": "atlas_spectrum_phi_only",
+          "ra_deg": 0.010986328125,
+          "dec_deg": -90.0,
+          "ra_hms": "00h 00m 02.637s",
+          "dec_dms": "-90\u00b0 00' 00.000\""
+        }
+      ]
+    }
+  ],
+  "primary_coordinate": {
+    "ra_deg": 69.7979736328125,
+    "dec_deg": 11.25,
+    "ra_hms": "04h 39m 11.514s",
+    "dec_dms": "+11\u00b0 15' 00.000\""
+  }
+}

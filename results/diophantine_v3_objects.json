@@ -1,0 +1,50 @@
+{
+  "analysis_date": "2025-11-09T21:25:14.233908",
+  "diophantine_v3_coordinates": {
+    "ra_deg": 72.888794,
+    "dec_deg": 9.364471
+  },
+  "simbad_query": {
+    "url": "https://simbad.cds.unistra.fr/simbad/sim-coo?Coord=72.888794+9.364471&Radius=0.0833&Radius.unit=deg&output.format=ASCII",
+    "success": true
+  },
+  "objects_found": [
+    {
+      "distance_arcsec": "210.32",
+      "identifier": "LEDA 1363602",
+      "object_type": "G",
+      "coordinates": "04 51 45.5 +09 20 04",
+      "mag_b": "~",
+      "mag_v": "~",
+      "spec_type": "1"
+    },
+    {
+      "distance_arcsec": "276.27",
+      "identifier": "UCAC4 497-008460",
+      "object_type": "Em*",
+      "coordinates": "04 51 35.3823226354 +09 17 17.536594683",
+      "mag_b": "15.133",
+      "mag_v": "13.739",
+      "spec_type": "2"
+    },
+    {
+      "distance_arcsec": "277.71",
+      "identifier": "NVSS J045150+092332",
+      "object_type": "Rad",
+      "coordinates": "04 51 50.82 +09 23 32.0",
+      "mag_b": "~",
+      "mag_v": "~",
+      "spec_type": "1"
+    },
+    {
+      "distance_arcsec": "296.58",
+      "identifier": "Gaia DR3 3292871264573792640",
+      "object_type": "*",
+      "coordinates": "04 51 15.3649613569 +09 24 04.101772687",
+      "mag_b": "~",
+      "mag_v": "~",
+      "spec_type": "1"
+    }
+  ],
+  "total_objects": 4
+}

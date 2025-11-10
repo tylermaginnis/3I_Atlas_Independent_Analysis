@@ -1,0 +1,53 @@
+{
+  "analysis_date": "2025-11-09T20:52:28.450115",
+  "unperturbed_trajectory": {
+    "ra_deg": 295.2130695156395,
+    "dec_deg": -19.044544002254423,
+    "true_anomaly_inf_deg": 99.10331845389997,
+    "direction_vector": {
+      "x": 0.40266942782720483,
+      "y": -0.8552096778310891,
+      "z": -0.3263031394843703
+    }
+  },
+  "perturbed_trajectory": {
+    "unperturbed": {
+      "ra_deg": 295.2130695156395,
+      "dec_deg": -19.044544002254423,
+      "true_anomaly_inf_deg": 99.10331845389997,
+      "direction_vector": {
+        "x": 0.40266942782720483,
+        "y": -0.8552096778310891,
+        "z": -0.3263031394843703
+      }
+    },
+    "perturbed": null,
+    "perturbation_note": "Requires N-body simulation to calculate perturbed trajectory",
+    "major_perturbations": {
+      "jupiter_encounter": {
+        "date": "2026-03-16",
+        "distance_km": 53000000,
+        "distance_au": 0.354,
+        "significance": "Major perturbation - will significantly alter trajectory"
+      }
+    }
+  },
+  "hd286941": {
+    "ra_deg": 69.823071,
+    "dec_deg": 11.265073,
+    "name": "HD 286941",
+    "type": "G5 emission star"
+  },
+  "separations": {
+    "unperturbed_vs_hd286941_deg": 135.62611644124988,
+    "unperturbed_vs_hd286941_arcmin": 8137.5669864749925
+  },
+  "reverse_engineering": {
+    "unperturbed_origin_ra_deg": 295.2130695156395,
+    "unperturbed_origin_dec_deg": -19.044544002254423,
+    "perturbed_origin_ra_deg": null,
+    "perturbed_origin_dec_deg": null,
+    "can_reverse_engineer": true,
+    "requires_nbody_simulation": true
+  }
+}

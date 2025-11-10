@@ -1,0 +1,23 @@
+{
+  "analysis_date": "2025-11-09T20:41:10.503731",
+  "object": "HD 286941",
+  "coordinates": {
+    "ra_deg": 69.823071,
+    "dec_deg": 11.265073
+  },
+  "gaia_analysis": {
+    "success": false,
+    "error": "HTTP 400"
+  },
+  "exoplanet_analysis": {
+    "success": false,
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  "simbad_analysis": {
+    "success": true,
+    "data": "C.D.S.  -  SIMBAD4 rel 1.8  -  2025.11.10CET02:41:12\n\nHD 286941\n---------\n\nObject HD 286941  ---  Em*  ---  OID=@720285   (@@18853,7)  ---  coobox=4907\n\nCoordinates(ICRS,ep=J2000,eq=2000): 04 39 17.5371613608  +11 15 54.263626992 (Opt ) A [0.0129 0.0064 90] 2020yCat.1350....0G\nCoordinates(FK4,ep=B1950,eq=1950): 04 36 31.1114943006  +11 10 05.743274075\nCoordinates(Gal,ep=J2000,eq=2000): 186.0016917176885  -22.7538487621601\nhierarchy counts: #parents=1, #children=0, #siblings=0\nProper motions: 81.425 -57.695 [0.017 0.013 90] A 2020yCat.1350....0G\nParallax: 6.9909 [0.0158] A 2020yCat.1350....0G\nRadial Velocity: 30.70 [0.2] A 2007AN....328..889K\nRedshift: 0.000102 [0.000001] A 2007AN....328..889K\ncz: 30.70 [0.20] A 2007AN....328..889K\nFlux B : 10.41 [0.05] D 2000A&A...355L..27H\nFlux V : 9.65 [0.03] D 2000A&A...355L..27H\nFlux G : 9.483469 [0.002759] C 2020yCat.1350....0G\nFlux J : 8.327 [0.029] C 2003yCat.2246....0C\nFlux H : 7.986 [0.034] C 2003yCat.2246....0C\nFlux K : 7.922 [0.038] C 2003yCat.2246....0C\nSpectral type: G5 E 1995A&AS..110..367N\nMorphological type: ~ ~ ~\nAngular size:     ~     ~   ~ (~)  ~ ~\n\nIdentifiers (18):\n   TIC 345580702                        HIP 21684                            GEN# +5.20253307                   \n   UBV M 41549                          Cl Melotte 25 307                    LAMOST J043917.86+111554.2         \n   Gaia DR3 3294318565473592704         AG+11 434                            BD+10 605                          \n   CSI+10 605 1                         GSC 00690-01370                      HD 286941                          \n   HIC 21684                            PPM 120115                           TYC 690-1370-1                     \n   2MASS J04391753+1115542              Gaia DR1 3294318565473592704         Gaia DR2 3294318565473592704       \n\nBibcodes  1850-2026 () (17):\n  2024A&A...683A.125P  2023ApJS..264...17Z  2021ApJS..254...42B  2020ApJS..247...11R\n  2019A&A...623A..72K  2019MNRAS.490.3158C  2018A&A...615A..49C  2016AJ....152..181H\n  2014ASPC..485..223B  2012A&A...546A..61D  2012MNRAS.427..343M  2007A&A...474..653V\n  1998A&A...331...81P  1997A&A...323L..49P  1995A&AS..110..367N  1988AJ.....96..172G\n  1962ApJ...136...75J                                    \n\nMeasures (distance:2  Fe_H:2  MK:2  PLX:5  PM:5  velocities:3  ):\ndistance:2Fe_H:2MK:2PLX:5PM:5velocities:3\n\nNotes (0) :\n\n================================================================================\n\n"
+  },
+  "trajectory_analysis": {
+    "note": "Trajectory cross-reference requires 3I/ATLAS trajectory data"
+  }
+}

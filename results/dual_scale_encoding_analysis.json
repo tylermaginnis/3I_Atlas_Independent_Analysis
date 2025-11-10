@@ -1,0 +1,82 @@
+{
+  "analysis_date": "2025-11-09T21:42:11.411273",
+  "encoded_objects": {
+    "phi_log3": {
+      "encoding": "phi_log3",
+      "entropy": 0.484256,
+      "objects": [
+        {
+          "identifier": "HIP 21684 (HD 286941)",
+          "type": "Star (Em*)",
+          "distance_ly": 491.95,
+          "distance_pc": 150.83,
+          "scale": "galactic",
+          "separation_arcmin": 1.73,
+          "radio_source": {
+            "identifier": "NVSS J043903+111800",
+            "type": "Radio Source (Star Formation)",
+            "flux_mjy": 87.44,
+            "log_luminosity": 18.38,
+            "separation_arcmin": 3.97
+          }
+        }
+      ]
+    },
+    "diophantine_v3": {
+      "encoding": "diophantine_v3",
+      "entropy": 0.996244,
+      "objects": [
+        {
+          "identifier": "LEDA 1363602",
+          "type": "Galaxy (G)",
+          "distance_ly": 720000000.0,
+          "distance_mpc": 220.8,
+          "redshift": 0.053915,
+          "scale": "extragalactic",
+          "separation_arcmin": 3.51,
+          "radio_source": {
+            "identifier": "NVSS J045150+092332",
+            "type": "Radio Source (AGN)",
+            "flux_mjy": 1.4,
+            "log_luminosity": 28.91,
+            "separation_arcmin": 3.71
+          }
+        }
+      ]
+    }
+  },
+  "scale_comparison": {
+    "galactic_distance_ly": 491.95,
+    "extragalactic_distance_ly": 720000000.0,
+    "distance_ratio": 1463563.3702612054
+  },
+  "radio_comparison": {
+    "galactic_flux_mjy": 87.44,
+    "extragalactic_flux_mjy": 1.4,
+    "flux_ratio": 62.45714285714286,
+    "galactic_log_luminosity": 18.38,
+    "extragalactic_log_luminosity": 28.91,
+    "luminosity_ratio": 2.951209226666378e-11
+  },
+  "statistical_analysis": {
+    "sky_area_deg2": 41252.9960943344,
+    "search_radius_deg": 0.0833,
+    "search_area_deg2": 0.0217991474351,
+    "prob_star_match": 5.284257993104615e-07,
+    "prob_galaxy_match": 5.284257993104615e-09,
+    "prob_both_matches": 2.7923382537690013e-15
+  },
+  "interpretations": [
+    "Dual reference frame (local + distant)",
+    "Origin vs destination (galactic \u2192 extragalactic)",
+    "Multi-scale information encoding",
+    "Coordinate system transformation",
+    "Encoded signal pattern (requires further verification)"
+  ],
+  "conclusion": {
+    "pattern_is_unusual": true,
+    "statistical_probability_suggests_non_random_pattern": true,
+    "could_encode_multiple_scales": true,
+    "could_point_to_origin_and_destination": true
+  }
+}

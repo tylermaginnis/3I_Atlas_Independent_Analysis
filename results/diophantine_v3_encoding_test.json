@@ -1,0 +1,36 @@
+{
+  "analysis_date": "2025-11-09T21:15:55.015667",
+  "diophantine_v3_encoding": {
+    "entropy": 0.996244,
+    "bit_distribution": {
+      "zeros": 1190,
+      "ones": 1375
+    }
+  },
+  "phi_log3_encoding": {
+    "entropy": 0.484256,
+    "bit_distribution": {
+      "zeros": 2296,
+      "ones": 269
+    },
+    "coordinate": {
+      "ra_deg": 69.797974,
+      "dec_deg": 11.25,
+      "name": "Decoded 37-bit coordinate (phi_log3)"
+    },
+    "separation_arcmin": 1.73
+  },
+  "diophantine_v3_best_match": {
+    "ra_deg": 72.8887939453125,
+    "dec_deg": 9.364471435546875,
+    "ra_value": 26538,
+    "dec_value": 578840,
+    "start_position": 327,
+    "separation_arcmin": 213.9094784373775
+  },
+  "comparison": {
+    "phi_log3_separation": 1.73,
+    "diophantine_v3_separation": 213.9094784373775,
+    "improvement": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "analysis_date": "2025-11-09T21:30:40.775008",
+  "leda_1363602": {
+    "identifier": "LEDA 1363602",
+    "type": "Galaxy (G)",
+    "coordinates": {
+      "ra_deg": 72.939583,
+      "dec_deg": 9.334444
+    },
+    "redshift": {
+      "redshift": null,
+      "redshift_error": null
+    },
+    "distance": null
+  },
+  "trajectory_analysis": {
+    "leda_direction": {
+      "ra_deg": 72.939583,
+      "dec_deg": 9.334444,
+      "unit_vector": [
+        0.28949511867693783,
+        0.943336998548846,
+        0.162197051240398
+      ]
+    },
+    "note": "Full trajectory calculation requires N-body simulation"
+  },
+  "velocity_analysis": null,
+  "other_objects": [
+    {
+      "identifier": "LEDA 1363602",
+      "type": "Galaxy (G)",
+      "distance_arcsec": 210.32,
+      "distance_arcmin": 3.51
+    },
+    {
+      "identifier": "UCAC4 497-008460",
+      "type": "Emission star (Em*)",
+      "distance_arcsec": 276.27,
+      "distance_arcmin": 4.6,
+      "v_magnitude": 13.739,
+      "b_magnitude": 15.133,
+      "spectral_type": "K7"
+    },
+    {
+      "identifier": "NVSS J045150+092332",
+      "type": "Radio source (Rad)",
+      "distance_arcsec": 277.71,
+      "distance_arcmin": 4.63
+    },
+    {
+      "identifier": "Gaia DR3 3292871264573792640",
+      "type": "Star (*)",
+      "distance_arcsec": 296.58,
+      "distance_arcmin": 4.94
+    }
+  ],
+  "simbad_query": {
+    "success": true,
+    "data": "C.D.S.  -  SIMBAD4 rel 1.8  -  2025.11.10CET03:30:40\n\nLEDA 1363602\n------------\n\nObject LEDA 1363602  ---  G  ---  OID=@10835320   (@@-1,255)  ---  coobox=4999\n\nCoordinates(ICRS,ep=J2000,eq=2000): 04 51 45.5  +09 20 04 (Opt ) D [~ ~ ] 2003A&A...412...45P\nCoordinates(FK4,ep=B1950,eq=1950): 04 49 01.3  +09 15 04      \nCoordinates(Gal,ep=J2000,eq=2000): 189.6063  -21.3509         \nhierarchy counts: #parents=0, #children=0, #siblings=0\nProper motions: ~ ~ [~ ~ ] ~ ~\nParallax: ~ [~] ~ ~                  \nRadial Velocity: ~ [~ ~ ] ~ ~                  \nRedshift: ~ [~ ~ ] ~ ~                  \ncz: ~ [~ ~ ] ~ ~                  \nFlux \nSpectral type: ~ ~ ~\nMorphological type: ~ ~ ~\nAngular size:  0.54  0.35 137 (Opt )  E 2003A&A...412...45P\n\nIdentifiers (1):\n   LEDA 1363602                                                                                                 \n\nBibcodes  1850-2026 () (1):\n  2003A&A...412...45P                                    \n\nMeasures (  ):\n\n\nNotes (0) :\n\n================================================================================\n\n"
+  }
+}

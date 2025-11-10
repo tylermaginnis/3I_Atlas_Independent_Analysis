@@ -1,0 +1,187 @@
+{
+  "lookup_date": "2025-11-09 20:27:09",
+  "primary_coordinate_lookup": {
+    "coordinate": {
+      "ra_deg": 69.7979736328125,
+      "dec_deg": 11.25,
+      "ra_hms": "04h 39m 11.514s",
+      "dec_dms": "+11\u00b0 15' 00.000\""
+    },
+    "irsa_format": {
+      "coordinate_hms": "04h 39m 11.514s +11d 15m 00.000s",
+      "coordinate_deg": "69.797974 11.250000",
+      "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+      "formatted_for_manual": {
+        "hms_format": "04h 39m 11.514s +11d 15m 00.000s",
+        "deg_format": "69.797974 11.250000"
+      }
+    },
+    "simbad_result": {
+      "success": true,
+      "data": "!! No astronomical object found : \n coord 69.797974 11.250000 (ICRS, J2000, 2000.0), radius: 0.016667 deg\n",
+      "url": "https://simbad.cds.unistra.fr/simbad/sim-coo?Coord=69.797974+11.250000&Radius=0.016667&Radius.unit=deg&output.format=ASCII"
+    },
+    "ned_result": {
+      "success": true,
+      "data": "<html><head>\n<title>Your NED Search Results</title>\n<script>\n function onSelectSDSSOption(sel) {\n    if (sel.value == 12) {\n   document.getElementById(\"sdssinfo\").action =\n    \"http://skyserver.sdss.org/dr\" + sel.value + \"/en/tools/explore/summary.aspx\";\n   }\n    else  {\n      document.getElementById(\"sdssinfo\").action =\n    \"http://cas.sdss.org/dr\" + sel.value + \"/en/tools/explore/obj.asp\";\n    }\n    }\n</script>\n<script>\n function onSelectSDSSOptionPos(sel) {\n    if (sel.value == 12) {\n   document.getElementById(\"sdssinfoPos\").action =\n    \"http://skyserver.sdss.org/dr\" + sel.value + \"/en/tools/explore/summary.aspx\";\n   }\n    else  {\n     document.getElementById(\"sdssinfoPos\").action =\n    \"http://cas.sdss.org/dr\" + sel.value + \"/en/tools/explore/obj.asp\";\n    }\n    }\n</script>\n<script>\n function onSelectSDSSOptionInt(sel) {\n   if (sel.value == 12) {\n   document.getElementById(\"sdssinfoInt\").action =\n    \"http://skyserver.sdss.org/dr\" + sel.value + \"/en/tools/chart/navi.aspx\";\n   }\n    else  {\n      document.getElementById(\"sdssinfoInt\").action =\n    \"http://cas.sdss.org/dr\" + sel.value + \"/en/tools/chart/navi.asp\";\n    }\n    }\n</script>\n</head>\n<body bgcolor=#000000 background=\"/pics/NEDBkg.jpg\">\n<center><font size=6 color=#CC3333><b>N</b></font><font size=4 color=#CCCCCCC><b>ASA/IPAC</b></font>&nbsp;<font size=6 color=#CC3333><b>E</b></font><font size=4 color=#CCCCCCC><b>XTRAGALACTIC</b></font>&nbsp;<font size=6 color=#CC3333><b>D</b></font><font size=4 color=#CCCCCCC><b>ATABASE</b></font></center>\n<center><font size=3 color=#CCCCCCC>Date and Time of the Query: 2025-11-09 T17:27:10 PST</font></center>\n<center>\n<A HREF=\"/help/objresult_help.html\" target=help><font color=\"#CCCCCC\">Help</font></A><font color=\"#CCCCCC\"> | </font><A HREF=\"/forms/comment.html\"><font color=\"#CCCCCC\">Comment</font></A><font color=\"#CCCCCC\"> | </font><A HREF=\"/\"><font color=\"#CCCCCC\">NED Home</font></A></center><br>\n<table border=4 cellpadding=6 bgcolor=\"#FFFAF0\"><tr><td>\n<PRE>\nMessages:\n \n    The object name that you submitted is not currently recognized\n    by the NED name interpreter.\n \n    In general, naming conventions employ a prefix (usually an\n    acronym for the first author(s) or the survey name) followed\n    by a numerical string based on a tabular sequence or a position\n    on the sky. For more specifics, see the document at\n    http://vizier.u-strasbg.fr/Dic/iau-spec.htx\n \n    Based on your input, we have listed below a number of\n    possibilities that NED does recognize that reasonably may\n    include your object/survey and its standardized naming\n    convention in NED.\n \n \nUse this format                    for this catalogue\n---------------                    ----------------\n   VI Zw NNN                       Sixth Zwicky list\n \nKey:  A = alphabetic character\n   :  a = optional alphabetic character\n   :  B = Besselian 1950 designator\n   :  b = galactic latitude\n   : DD = degrees of Declination or day of month\n   :  d = decimal degrees of Declination\n   :  F = field/plate name\n   :  G = galaxy OR galactic coordinates designator\n   : HH = hours of Right Ascension\n   :  h = decimal hours of Right Ascension\n   :  J = Julian 2000 designator\n   :  L = galactic longitude\n   :  l = galactic longitude\n   : MM = minutes of R.A. or time or arcminutes of Dec. or month\n   :  m = decimal minutes of R.A. or time or arcminutes of Dec.\n   :  N = numeric character\n   : SS = seconds of R.A. or time or arcseconds of Dec.\n   :  s = decimal seconds of R.A. or time or arcseconds of Dec.\n   : YY = year (2-digit years imply 20th Century except Gamma-ray bursters)\n   :  Z = integer part of redshift\n   : zz = decimal portion of redshift\n   :  + = plus OR minus sign\n   :  - = dash OR minus sign\n \n</PRE>\n</td></tr></table>\n<br><A HREF=\"/\"><font color=\"#CCCCCC\"> Back to NED Home </font></A></body></html>",
+      "url": "https://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=69.797974+11.250000&extend=no&hconst=73&omegam=0.27&omegav=0.73&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=Distance+to+search+center&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES"
+    }
+  },
+  "all_coordinates_lookup": [
+    {
+      "coordinate": {
+        "structure_number": 1,
+        "bit_string": "1011000110101011011001000000000000000",
+        "coordinate_value": 95385583616,
+        "ra_deg": 249.84695434570312,
+        "dec_deg": 11.25,
+        "ra_hms": "16h 39m 23.269s",
+        "dec_dms": "+11\u00b0 15' 00.000\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "16h 39m 23.269s +11d 15m 00.000s",
+        "coordinate_deg": "249.846954 11.250000",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "16h 39m 23.269s +11d 15m 00.000s",
+          "deg_format": "249.846954 11.250000"
+        }
+      }
+    },
+    {
+      "coordinate": {
+        "structure_number": 2,
+        "bit_string": "0110001101010110110010000000000000001",
+        "coordinate_value": 53332213761,
+        "ra_deg": 139.69528198242188,
+        "dec_deg": -67.4996566772461,
+        "ra_hms": "09h 18m 46.868s",
+        "dec_dms": "-67\u00b0 29' 58.764\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "09h 18m 46.868s -67d 29m 58.764s",
+        "coordinate_deg": "139.695282 -67.499657",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "09h 18m 46.868s -67d 29m 58.764s",
+          "deg_format": "139.695282 -67.499657"
+        }
+      }
+    },
+    {
+      "coordinate": {
+        "structure_number": 3,
+        "bit_string": "1100011010101101100100000000000000010",
+        "coordinate_value": 106664427522,
+        "ra_deg": 279.39056396484375,
+        "dec_deg": -44.99931335449219,
+        "ra_hms": "18h 37m 33.735s",
+        "dec_dms": "-44\u00b0 59' 57.528\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "18h 37m 33.735s -44d 59m 57.528s",
+        "coordinate_deg": "279.390564 -44.999313",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "18h 37m 33.735s -44d 59m 57.528s",
+          "deg_format": "279.390564 -44.999313"
+        }
+      }
+    },
+    {
+      "coordinate": {
+        "structure_number": 4,
+        "bit_string": "1000110101011011001000000000000000101",
+        "coordinate_value": 75889901573,
+        "ra_deg": 198.7811279296875,
+        "dec_deg": 0.00171661376953125,
+        "ra_hms": "13h 15m 07.471s",
+        "dec_dms": "+00\u00b0 00' 06.180\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "13h 15m 07.471s +00d 00m 06.180s",
+        "coordinate_deg": "198.781128 0.001717",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "13h 15m 07.471s +00d 00m 06.180s",
+          "deg_format": "198.781128 0.001717"
+        }
+      }
+    },
+    {
+      "coordinate": {
+        "structure_number": 5,
+        "bit_string": "0001101010110110010000000000000001010",
+        "coordinate_value": 14340849674,
+        "ra_deg": 37.563629150390625,
+        "dec_deg": -89.99656677246094,
+        "ra_hms": "02h 30m 15.271s",
+        "dec_dms": "-89\u00b0 59' 47.640\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "02h 30m 15.271s -89d 59m 47.640s",
+        "coordinate_deg": "37.563629 -89.996567",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "02h 30m 15.271s -89d 59m 47.640s",
+          "deg_format": "37.563629 -89.996567"
+        }
+      }
+    },
+    {
+      "coordinate": {
+        "encoding_scheme": "atlas_spectrum_phi_log3",
+        "ra_deg": 69.8016357421875,
+        "dec_deg": 11.25,
+        "ra_hms": "04h 39m 12.393s",
+        "dec_dms": "+11\u00b0 15' 00.000\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "04h 39m 12.393s +11d 15m 00.000s",
+        "coordinate_deg": "69.801636 11.250000",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "04h 39m 12.393s +11d 15m 00.000s",
+          "deg_format": "69.801636 11.250000"
+        }
+      }
+    },
+    {
+      "coordinate": {
+        "encoding_scheme": "atlas_spectrum_phi_only",
+        "ra_deg": 0.010986328125,
+        "dec_deg": -90.0,
+        "ra_hms": "00h 00m 02.637s",
+        "dec_dms": "-90\u00b0 00' 00.000\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "00h 00m 02.637s -90d 00m 00.000s",
+        "coordinate_deg": "0.010986 -90.000000",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "00h 00m 02.637s -90d 00m 00.000s",
+          "deg_format": "0.010986 -90.000000"
+        }
+      }
+    },
+    {
+      "coordinate": {
+        "encoding_scheme": "atlas_spectrum_log3_only",
+        "ra_deg": 69.7906494140625,
+        "dec_deg": 11.25,
+        "ra_hms": "04h 39m 09.756s",
+        "dec_dms": "+11\u00b0 15' 00.000\""
+      },
+      "irsa_format": {
+        "coordinate_hms": "04h 39m 09.756s +11d 15m 00.000s",
+        "coordinate_deg": "69.790649 11.250000",
+        "lookup_url": "https://irsa.ipac.caltech.edu/applications/Lookup/",
+        "formatted_for_manual": {
+          "hms_format": "04h 39m 09.756s +11d 15m 00.000s",
+          "deg_format": "69.790649 11.250000"
+        }
+      }
+    }
+  ],
+  "irsa_manual_lookup": []
+}

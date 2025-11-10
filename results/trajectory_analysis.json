@@ -1,0 +1,159 @@
+{
+  "analysis_date": "2025-11-09T20:46:12.592244",
+  "orbital_elements": {
+    "time_of_perihelion_mjd": 60977.10275,
+    "perihelion_distance_au": 1.3797753,
+    "eccentricity": 6.320503,
+    "inclination_deg": 175.12093,
+    "longitude_ascending_node_deg": 322.34889,
+    "argument_of_perihelion_deg": 127.7735,
+    "last_updated": "July 6, 2025",
+    "source": "Seligman et al. (2025)"
+  },
+  "perihelion_position": {
+    "time_mjd": 60977.10275,
+    "time_datetime": "2025-10-29 02:27:57.600000",
+    "position_au": {
+      "x": -1.3329564137119352,
+      "y": -0.35260068309587805,
+      "z": -0.05176713160515538,
+      "r": 1.3797752999999997
+    },
+    "coordinates": {
+      "ra_deg": 194.81680995077207,
+      "dec_deg": -2.1501576754866774
+    },
+    "true_anomaly_deg": 0.0,
+    "distance_from_sun_au": 1.3797753
+  },
+  "closest_approaches": [
+    {
+      "target": {
+        "name": "HD 286941",
+        "ra_deg": 69.823071,
+        "dec_deg": 11.265073,
+        "type": "Primary target (G5 emission star)"
+      },
+      "closest_approach": {
+        "closest_time_mjd": 61157.10275,
+        "closest_time_datetime": "2026-04-27 02:27:57.600000",
+        "closest_separation_deg": 40.20854996746878,
+        "closest_separation_arcmin": 2412.5129980481265,
+        "closest_position": {
+          "time_mjd": 61157.10275,
+          "time_datetime": "2026-04-27 02:27:57.600000",
+          "position_au": {
+            "x": -2.1955454064392126,
+            "y": 5.791815936929037,
+            "z": 2.1805065362602702,
+            "r": 6.566594264432307
+          },
+          "coordinates": {
+            "ra_deg": 110.7605760859061,
+            "dec_deg": 19.393886905017784
+          },
+          "true_anomaly_deg": 85.11538532360382,
+          "distance_from_sun_au": 6.566594264432307
+        },
+        "target_ra": 69.823071,
+        "target_dec": 11.265073
+      }
+    },
+    {
+      "target": {
+        "name": "Primary Decoded Coordinate",
+        "ra_deg": 69.7979736328125,
+        "dec_deg": 11.25,
+        "type": "Decoded coordinate"
+      },
+      "closest_approach": {
+        "closest_time_mjd": 61157.10275,
+        "closest_time_datetime": "2026-04-27 02:27:57.600000",
+        "closest_separation_deg": 40.23646985191323,
+        "closest_separation_arcmin": 2414.188191114794,
+        "closest_position": {
+          "time_mjd": 61157.10275,
+          "time_datetime": "2026-04-27 02:27:57.600000",
+          "position_au": {
+            "x": -2.1955454064392126,
+            "y": 5.791815936929037,
+            "z": 2.1805065362602702,
+            "r": 6.566594264432307
+          },
+          "coordinates": {
+            "ra_deg": 110.7605760859061,
+            "dec_deg": 19.393886905017784
+          },
+          "true_anomaly_deg": 85.11538532360382,
+          "distance_from_sun_au": 6.566594264432307
+        },
+        "target_ra": 69.7979736328125,
+        "target_dec": 11.25
+      }
+    },
+    {
+      "target": {
+        "name": "HD 80838",
+        "ra_deg": 139.65026,
+        "dec_deg": -67.536354,
+        "type": "Structure 2 (K0IV star)"
+      },
+      "closest_approach": {
+        "closest_time_mjd": 60975.39189457228,
+        "closest_time_datetime": "2025-10-27 09:24:19.691045",
+        "closest_separation_deg": 75.33918840897758,
+        "closest_separation_arcmin": 4520.351304538654,
+        "closest_position": {
+          "time_mjd": 60975.39189457228,
+          "time_datetime": "2025-10-27 09:24:19.691045",
+          "position_au": {
+            "x": -1.3155863815207982,
+            "y": -0.4140285799678592,
+            "z": -0.0745668963900538,
+            "r": 1.3812122987833675
+          },
+          "coordinates": {
+            "ra_deg": 197.46932561455557,
+            "dec_deg": -3.094706383897325
+          },
+          "true_anomaly_deg": -2.8130268177535527,
+          "distance_from_sun_au": 1.3812122987833675
+        },
+        "target_ra": 139.65026,
+        "target_dec": -67.536354
+      }
+    },
+    {
+      "target": {
+        "name": "HD 171547",
+        "ra_deg": 279.421567,
+        "dec_deg": -45.047173,
+        "type": "Structure 3 (A8/9IV star)"
+      },
+      "closest_approach": {
+        "closest_time_mjd": 60810.06923324162,
+        "closest_time_datetime": "2025-05-15 01:39:41.752076",
+        "closest_separation_deg": 25.258672693447707,
+        "closest_separation_arcmin": 1515.5203616068625,
+        "closest_position": {
+          "time_mjd": 60810.06923324162,
+          "time_datetime": "2025-05-15 01:39:41.752076",
+          "position_au": {
+            "x": 0.9338102695876511,
+            "y": -5.687117433662929,
+            "z": -2.073613612575452,
+            "r": 6.124963651983447
+          },
+          "coordinates": {
+            "ra_deg": 279.32461618144265,
+            "dec_deg": -19.78862810207245
+          },
+          "true_anomaly_deg": -84.10551503304976,
+          "distance_from_sun_au": 6.124963651983445
+        },
+        "target_ra": 279.421567,
+        "target_dec": -45.047173
+      }
+    }
+  ]
+}

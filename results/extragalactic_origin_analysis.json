@@ -1,0 +1,74 @@
+{
+  "analysis_date": "2025-11-09T21:28:19.976675",
+  "diophantine_v3_coordinates": {
+    "ra_deg": 72.888794,
+    "dec_deg": 9.364471,
+    "ra_hms": "04h51m33.311s",
+    "dec_dms": "+09\u00b021'52.096\"",
+    "name": "Diophantine v3 decoded coordinate",
+    "encoding": "diophantine_v3",
+    "entropy": 0.996244
+  },
+  "leda_1363602": {
+    "identifier": "LEDA 1363602",
+    "type": "Galaxy (G)",
+    "ra_deg": 72.939583,
+    "dec_deg": 9.334444,
+    "ra_hms": "04h51m45.5s",
+    "dec_dms": "+09\u00b020'04\"",
+    "distance_arcsec": 210.32,
+    "distance_arcmin": 3.51
+  },
+  "decoded_coordinate": {
+    "ra_deg": 69.797974,
+    "dec_deg": 11.25,
+    "ra_hms": "04h39m11.514s",
+    "dec_dms": "+11\u00b015'00.000\"",
+    "name": "Decoded 3I/ATLAS coordinate (phi_log3)"
+  },
+  "hip_21684": {
+    "ra_deg": 69.822875,
+    "dec_deg": 11.265222,
+    "ra_hms": "04h39m17.49s",
+    "dec_dms": "+11\u00b015'54.8\"",
+    "name": "HIP 21684 (HD 286941)",
+    "type": "Star (G0)",
+    "distance_parsecs": 150.83,
+    "distance_ly": 491.95
+  },
+  "orbital_elements": {
+    "time_of_perihelion_mjd": 60977.10275,
+    "perihelion_distance_au": 1.3797753,
+    "eccentricity": 6.320503,
+    "inclination_deg": 175.12093,
+    "longitude_ascending_node_deg": 322.34889,
+    "argument_perihelion_deg": 127.7735
+  },
+  "separations": {
+    "diophantine_v3_vs_leda_deg": 0.05842144190878151,
+    "diophantine_v3_vs_leda_arcmin": 3.5052865145268908,
+    "diophantine_v3_vs_decoded_deg": 3.5779263573290656,
+    "diophantine_v3_vs_decoded_arcmin": 214.67558143974395,
+    "diophantine_v3_vs_hip_deg": 3.5651582533900417,
+    "diophantine_v3_vs_hip_arcmin": 213.9094952034025,
+    "leda_vs_hip_deg": 3.6235584054298546,
+    "leda_vs_hip_arcmin": 217.41350432579128
+  },
+  "extragalactic_analysis": {
+    "leda_1363602_type": "Galaxy (extragalactic)",
+    "hip_21684_type": "Star (in our galaxy)",
+    "hip_21684_distance_ly": 491.95,
+    "trajectory_suggests": "Solar system origin (hyperbolic orbit)",
+    "possibility": "Could be extragalactic but trajectory suggests otherwise",
+    "alternative_interpretations": [
+      "LEDA 1363602 could be a reference point (not origin)",
+      "Could be pointing to LEDA 1363602 as a destination",
+      "Could be encoding multiple targets (HIP 21684 + LEDA 1363602)",
+      "Could be a coordinate system reference (galactic vs extragalactic)"
+    ]
+  },
+  "simbad_query": {
+    "success": true,
+    "data": "C.D.S.  -  SIMBAD4 rel 1.8  -  2025.11.10CET03:28:19\n\nLEDA 1363602\n------------\n\nObject LEDA 1363602  ---  G  ---  OID=@10835320   (@@-1,255)  ---  coobox=4999\n\nCoordinates(ICRS,ep=J2000,eq=2000): 04 51 45.5  +09 20 04 (Opt ) D [~ ~ ] 2003A&A...412...45P\nCoordinates(FK4,ep=B1950,eq=1950): 04 49 01.3  +09 15 04      \nCoordinates(Gal,ep=J2000,eq=2000): 189.6063  -21.3509         \nhierarchy counts: #parents=0, #children=0, #siblings=0\nProper motions: ~ ~ [~ ~ ] ~ ~\nParallax: ~ [~] ~ ~                  \nRadial Velocity: ~ [~ ~ ] ~ ~                  \nRedshift: ~ [~ ~ ] ~ ~                  \ncz: ~ [~ ~ ] ~ ~                  \nFlux \nSpectral type: ~ ~ ~\nMorphological type: ~ ~ ~\nAngular size:  0.54  0.35 137 (Opt )  E 2003A&A...412...45P\n\nIdentifiers (1):\n   LEDA 1363602                                                                                                 \n\nBibcodes  1850-2026 () (1):\n  2003A&A...412...45P                                    \n\nMeasures (  ):\n\n\nNotes (0) :\n\n================================================================================\n\n"
+  }
+}

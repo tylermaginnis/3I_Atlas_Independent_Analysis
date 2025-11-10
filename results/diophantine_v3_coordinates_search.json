@@ -1,0 +1,39 @@
+{
+  "analysis_date": "2025-11-09T21:24:51.502314",
+  "diophantine_v3_coordinates": {
+    "ra_deg": 72.888794,
+    "dec_deg": 9.364471,
+    "ra_hms": "04h51m33.311s",
+    "dec_dms": "+09\u00b021'52.096\"",
+    "name": "Diophantine v3 decoded coordinate",
+    "encoding": "diophantine_v3",
+    "entropy": 0.996244
+  },
+  "decoded_coordinate": {
+    "ra_deg": 69.797974,
+    "dec_deg": 11.25,
+    "ra_hms": "04h39m11.514s",
+    "dec_dms": "+11\u00b015'00.000\"",
+    "name": "Decoded 3I/ATLAS coordinate (phi_log3)"
+  },
+  "hip_21684": {
+    "ra_deg": 69.822875,
+    "dec_deg": 11.265222,
+    "ra_hms": "04h39m17.49s",
+    "dec_dms": "+11\u00b015'54.8\"",
+    "name": "HIP 21684 (HD 286941)"
+  },
+  "separations": {
+    "diophantine_v3_vs_decoded_deg": 3.5779263573290656,
+    "diophantine_v3_vs_decoded_arcmin": 214.67558143974395,
+    "diophantine_v3_vs_hip_deg": 3.5651582533900417,
+    "diophantine_v3_vs_hip_arcmin": 213.9094952034025
+  },
+  "simbad_query": {
+    "url": "https://simbad.cds.unistra.fr/simbad/sim-coo?Coord=72.888794+9.364471&Radius=0.0833&Radius.unit=deg&output.format=ASCII",
+    "result": {
+      "success": true,
+      "data": "C.D.S.  -  SIMBAD4 rel 1.8  -  2025.11.10CET03:24:39\n\ncoord 72.888794+9.364471 (ICRS, J2000, 2000.0), radius: 0.0833 deg\n------------------------------------------------------------------\n\nNumber of objects : 4\n\n#|dist(asec)|            identifier             |typ|       coord1 (ICRS,J2000/2000)        |Mag U |  Mag B  |  Mag V  |  Mag R  |Mag I |  spec. type   |#bib|#not\n-|----------|-----------------------------------|---|---------------------------------------|------|---------|---------|---------|------|---------------|----|----\n1|    210.32|LEDA 1363602                       |G  |04 51 45.5 +09 20 04                   |     ~|     ~   |     ~   |     ~   |     ~|~              |   1|   0\n2|    276.27|UCAC4 497-008460                   |Em*|04 51 35.3823226354 +09 17 17.536594683|     ~|15.133   |13.739   |13.329   |     ~|K7             |   2|   0\n3|    277.71|NVSS J045150+092332                |Rad|04 51 50.82 +09 23 32.0                |     ~|     ~   |     ~   |     ~   |     ~|~              |   1|   1\n4|    296.58|Gaia DR3 3292871264573792640       |*  |04 51 15.3649613569 +09 24 04.101772687|     ~|     ~   |     ~   |     ~   |     ~|~              |   1|   0\n================================================================================\n\n"
+    }
+  }
+}

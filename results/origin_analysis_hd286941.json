@@ -1,0 +1,41 @@
+{
+  "analysis_date": "2025-11-09T20:49:20.660782",
+  "hd286941": {
+    "ra_deg": 69.823071,
+    "dec_deg": 11.265073,
+    "name": "HD 286941",
+    "type": "G5 emission star"
+  },
+  "orbital_elements": {
+    "time_of_perihelion_mjd": 60977.10275,
+    "perihelion_distance_au": 1.3797753,
+    "eccentricity": 6.320503,
+    "inclination_deg": 175.12093,
+    "longitude_ascending_node_deg": 322.34889,
+    "argument_of_perihelion_deg": 127.7735
+  },
+  "velocity_analysis": {
+    "v_inf_km_per_s": 134.90946305662695,
+    "distance_ly": 25.0,
+    "travel_time_years": 55555.96175686529,
+    "origin_time": null
+  },
+  "trajectory_analysis": {
+    "perihelion_ra_deg": 194.81680995077207,
+    "perihelion_dec_deg": -2.1501576754866774,
+    "angular_separation_deg": 124.70639363620838,
+    "angular_separation_arcmin": 7482.383618172503
+  },
+  "feasibility": {
+    "distance_feasible": true,
+    "direction_close": false,
+    "stellar_activity_consistent": true,
+    "decoded_coordinates_consistent": true
+  },
+  "probability_analysis": {
+    "angular_separation_arcmin": 1.73,
+    "solid_angle_steradians": 7.955991553195245e-07,
+    "probability_random": 6.331176914441946e-08,
+    "significance": "***"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "analysis_date": "2025-11-09T20:53:39.892001",
+  "unperturbed_origin": {
+    "ra_deg": 295.2130695156395,
+    "dec_deg": -19.044544002254423
+  },
+  "backwards_integration_origin": {
+    "ra_deg": 294.5539029375805,
+    "dec_deg": -19.103136490991314,
+    "method": "backwards_integration",
+    "n_positions": 1969,
+    "average_distance_au": 314.459827546942
+  },
+  "perturbation_estimates": {
+    "jupiter_deflection_deg": 0.015056839264704776,
+    "jupiter_deflection_arcmin": 0.9034103558822866
+  },
+  "hd286941": {
+    "ra_deg": 69.823071,
+    "dec_deg": 11.265073,
+    "name": "HD 286941",
+    "type": "G5 emission star"
+  },
+  "separations": {
+    "unperturbed_vs_hd286941_deg": 135.62611644124988,
+    "unperturbed_vs_hd286941_arcmin": 8137.5669864749925,
+    "backwards_vs_hd286941_deg": 136.24445024001943,
+    "backwards_vs_hd286941_arcmin": 8174.667014401166
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "analysis_date": "2025-11-09T21:09:17.387688",
+  "phi": 1.618033988749895,
+  "phi_inv": 0.6180339887498948,
+  "phi_sq": 2.618033988749895,
+  "transition_analysis": {
+    "ATLAS": {
+      "name": "ATLAS",
+      "data_length": 195,
+      "transitions_count": 194,
+      "transition_ratios_count": 193,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "transition_statistics": {
+        "mean": -12684.852768969053,
+        "std": 2006646.8615203288,
+        "min": -2460845.2924699998,
+        "max": 2460861.9867100003
+      },
+      "transition_ratio_statistics": {
+        "mean": -46181.14437685236,
+        "std": 65567.96804765156,
+        "min": -147977.26608418525,
+        "max": 7.265799790031518e-06
+      }
+    },
+    "TRAPPIST": {
+      "name": "TRAPPIST",
+      "data_length": 1344,
+      "transitions_count": 1343,
+      "transition_ratios_count": 1342,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "transition_statistics": {
+        "mean": -1832.3594256350698,
+        "std": 2008901.7283327596,
+        "min": -2460843.7317347,
+        "max": 2460860.7894347003
+      },
+      "transition_ratio_statistics": {
+        "mean": -46908.08437662532,
+        "std": 66378.1670183531,
+        "min": -144332.0107895191,
+        "max": 7.2594290209914226e-06
+      }
+    },
+    "LCO_1": {
+      "name": "LCO_1",
+      "data_length": 201,
+      "transitions_count": 200,
+      "transition_ratios_count": 199,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "transition_statistics": {
+        "mean": -12304.293892354985,
+        "std": 2006724.5286773783,
+        "min": -2460841.129498,
+        "max": 2460859.026168
+      },
+      "transition_ratio_statistics": {
+        "mean": -45922.46314063573,
+        "std": 65190.83065571436,
+        "min": -140012.44272633136,
+        "max": 7.3328590437535615e-06
+      }
+    },
+    "LCO_2": {
+      "name": "LCO_2",
+      "data_length": 102,
+      "transitions_count": 101,
+      "transition_ratios_count": 100,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "transition_statistics": {
+        "mean": -24364.94904860395,
+        "std": 2004149.140276159,
+        "min": -2460843.0259040003,
+        "max": 2460860.91381
+      },
+      "transition_ratio_statistics": {
+        "mean": -45161.291475921644,
+        "std": 64349.38360636436,
+        "min": -137747.60097167647,
+        "max": 7.333262897545301e-06
+      }
+    }
+  },
+  "pulse_duration_analysis": {
+    "ATLAS": {
+      "name": "ATLAS",
+      "peaks_count": 64,
+      "pulse_durations_count": 63,
+      "pulse_duration_ratios_count": 62,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_duration_statistics": {
+        "mean": 3.0,
+        "std": 0.0,
+        "min": 3.0,
+        "max": 3.0
+      },
+      "pulse_duration_ratio_statistics": {
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    },
+    "TRAPPIST": {
+      "name": "TRAPPIST",
+      "peaks_count": 447,
+      "pulse_durations_count": 446,
+      "pulse_duration_ratios_count": 445,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_duration_statistics": {
+        "mean": 3.0,
+        "std": 0.0,
+        "min": 3.0,
+        "max": 3.0
+      },
+      "pulse_duration_ratio_statistics": {
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    },
+    "LCO_1": {
+      "name": "LCO_1",
+      "peaks_count": 66,
+      "pulse_durations_count": 65,
+      "pulse_duration_ratios_count": 64,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_duration_statistics": {
+        "mean": 3.0,
+        "std": 0.0,
+        "min": 3.0,
+        "max": 3.0
+      },
+      "pulse_duration_ratio_statistics": {
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    },
+    "LCO_2": {
+      "name": "LCO_2",
+      "peaks_count": 33,
+      "pulse_durations_count": 32,
+      "pulse_duration_ratios_count": 31,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_duration_statistics": {
+        "mean": 3.0,
+        "std": 0.0,
+        "min": 3.0,
+        "max": 3.0
+      },
+      "pulse_duration_ratio_statistics": {
+        "mean": 1.0,
+        "std": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    }
+  },
+  "pulse_modulation_analysis": {
+    "ATLAS": {
+      "name": "ATLAS",
+      "peaks_count": 64,
+      "pulse_amplitudes_count": 64,
+      "pulse_amplitude_ratios_count": 63,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_amplitude_statistics": {
+        "mean": 0.9999998923005048,
+        "std": 5.745975813860456e-08,
+        "min": 0.9999997827184121,
+        "max": 1.0
+      },
+      "pulse_amplitude_ratio_statistics": {
+        "mean": 1.0000000034489145,
+        "std": 5.106097744847488e-09,
+        "min": 0.9999999644717964,
+        "max": 1.0000000106954396
+      }
+    },
+    "TRAPPIST": {
+      "name": "TRAPPIST",
+      "peaks_count": 447,
+      "pulse_amplitudes_count": 447,
+      "pulse_amplitude_ratios_count": 446,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_amplitude_statistics": {
+        "mean": 0.9999996708238998,
+        "std": 2.2297765742306148e-07,
+        "min": 0.99999916447376,
+        "max": 1.0
+      },
+      "pulse_amplitude_ratio_statistics": {
+        "mean": 1.0000000018733783,
+        "std": 1.5125474987345457e-08,
+        "min": 0.9999999243548776,
+        "max": 1.0000002345433603
+      }
+    },
+    "LCO_1": {
+      "name": "LCO_1",
+      "peaks_count": 66,
+      "pulse_amplitudes_count": 66,
+      "pulse_amplitude_ratios_count": 65,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_amplitude_statistics": {
+        "mean": 0.9999999192209711,
+        "std": 2.277326989071212e-08,
+        "min": 0.9999999004754042,
+        "max": 1.0
+      },
+      "pulse_amplitude_ratio_statistics": {
+        "mean": 1.0000000012689816,
+        "std": 9.749084408213912e-09,
+        "min": 0.9999999814609454,
+        "max": 1.0000000768963246
+      }
+    },
+    "LCO_2": {
+      "name": "LCO_2",
+      "peaks_count": 33,
+      "pulse_amplitudes_count": 33,
+      "pulse_amplitude_ratios_count": 32,
+      "phi_matches": [],
+      "phi_inv_matches": [],
+      "phi_sq_matches": [],
+      "total_phi_matches": 0,
+      "pulse_amplitude_statistics": {
+        "mean": 0.9999999039199398,
+        "std": 1.5885460869821432e-07,
+        "min": 0.9999995937535572,
+        "max": 1.0
+      },
+      "pulse_amplitude_ratio_statistics": {
+        "mean": 1.0000000126952062,
+        "std": 6.419090539442463e-08,
+        "min": 0.9999999937334937,
+        "max": 1.0000003694907533
+      }
+    }
+  }
+}

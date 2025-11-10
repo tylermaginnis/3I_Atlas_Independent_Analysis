@@ -1,0 +1,78 @@
+{
+  "analysis_date": "2025-11-09T20:58:46.707555",
+  "hd204941": {
+    "name": "HD 204941",
+    "distance_ly": 94.0,
+    "distance_pc": 28.7,
+    "parallax_mas": 34.883,
+    "spectral_class": "K2V C",
+    "star_type": "Orange star, High proper motion star",
+    "ra_hms": "21h 32m 23.195s",
+    "dec_dms": "-20\u00b0 57' 28.708\"",
+    "ra_deg": 323.096646,
+    "dec_deg": -20.957974,
+    "mass_solar": 0.74,
+    "radius_solar": 0.72,
+    "temperature_k": 5056,
+    "temperature_solar": 0.88,
+    "age_gyr": 6.67,
+    "age_solar": 1.45,
+    "magnitude_v": 8.5,
+    "magnitude_v_abs": 6.2,
+    "exoplanets": [
+      {
+        "name": "HD 204941 b",
+        "semi_major_axis_au": 2.56,
+        "mass_earth": 84.6,
+        "period_days": 1733
+      }
+    ],
+    "catalogues": [
+      "LTT 8565",
+      "BD-21 6035",
+      "HIC 106353",
+      "HIP 106353",
+      "2MASS J21322353-2057264",
+      "NLTT 51476",
+      "SAO 190421",
+      "TIC 99837626",
+      "TYC 6373-214-1",
+      "WISEA J213223.30-205728.0",
+      "Gaia DR3 6830027182179257472"
+    ]
+  },
+  "hd286941": {
+    "name": "HD 286941",
+    "ra_deg": 69.823071,
+    "dec_deg": 11.265083,
+    "distance_ly": 151.14,
+    "distance_pc": 46.34,
+    "constellation": "Taurus",
+    "spectral_class": "G5 emission star"
+  },
+  "decoded_coordinate": {
+    "ra_deg": 69.797974,
+    "dec_deg": 11.25,
+    "source": "37-bit structures, encoding schemes",
+    "statistical_significance": "p < 0.001 (***)",
+    "separation_from_hd286941_arcmin": 1.73
+  },
+  "angular_separations": {
+    "hd204941_vs_hd286941_deg": 109.47873447460871,
+    "hd204941_vs_hd286941_arcmin": 6568.724068476523,
+    "hd204941_vs_decoded_deg": 109.45061221879838,
+    "hd204941_vs_decoded_arcmin": 6567.036733127903,
+    "hd286941_vs_decoded_arcmin": 1.73
+  },
+  "distance_comparison": {
+    "hd204941_ly": 94.0,
+    "hd286941_ly": 151.14,
+    "hd204941_diff_from_25ly": 69.0,
+    "hd286941_diff_from_25ly": 126.13999999999999
+  },
+  "conclusions": {
+    "hd204941_matches_decoded": false,
+    "hd286941_matches_decoded": true,
+    "hd204941_closer_to_25ly": true
+  }
+}

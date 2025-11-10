@@ -1,0 +1,146 @@
+{
+  "analysis_date": "2025-11-09T21:11:45.349500",
+  "full_sequence_analysis": {
+    "sequence_length": 2565,
+    "entropy": 0.48425590613764796,
+    "max_entropy": 1.0,
+    "information_content_bits": 1242.116399243067,
+    "redundancy": 0.5157440938623521,
+    "effective_bits": 1242.116399243067
+  },
+  "bit_length_analysis": [
+    {
+      "bit_length": 30,
+      "entropy": 0.8812908992306927,
+      "information_content_bits": 26.43872697692078,
+      "redundancy": 0.1187091007693073,
+      "effective_bits": 26.43872697692078
+    },
+    {
+      "bit_length": 31,
+      "entropy": 0.869137580612638,
+      "information_content_bits": 26.94326499899178,
+      "redundancy": 0.13086241938736198,
+      "effective_bits": 26.94326499899178
+    },
+    {
+      "bit_length": 32,
+      "entropy": 0.8571484374283717,
+      "information_content_bits": 27.428749997707893,
+      "redundancy": 0.14285156257162834,
+      "effective_bits": 27.428749997707893
+    },
+    {
+      "bit_length": 33,
+      "entropy": 0.8453509366224364,
+      "information_content_bits": 27.896580908540404,
+      "redundancy": 0.15464906337756357,
+      "effective_bits": 27.896580908540404
+    },
+    {
+      "bit_length": 34,
+      "entropy": 0.833764907210665,
+      "information_content_bits": 28.348006845162608,
+      "redundancy": 0.16623509278933501,
+      "effective_bits": 28.348006845162608
+    },
+    {
+      "bit_length": 35,
+      "entropy": 0.8224042259549891,
+      "information_content_bits": 28.784147908424618,
+      "redundancy": 0.17759577404501092,
+      "effective_bits": 28.784147908424618
+    },
+    {
+      "bit_length": 36,
+      "entropy": 0.8112781244591328,
+      "information_content_bits": 29.20601248052878,
+      "redundancy": 0.18872187554086717,
+      "effective_bits": 29.20601248052878
+    },
+    {
+      "bit_length": 37,
+      "entropy": 0.8003922080453356,
+      "information_content_bits": 29.61451169767742,
+      "redundancy": 0.19960779195466438,
+      "effective_bits": 29.61451169767742
+    },
+    {
+      "bit_length": 38,
+      "entropy": 0.7897492536625224,
+      "information_content_bits": 30.01047163917585,
+      "redundancy": 0.21025074633747765,
+      "effective_bits": 30.01047163917585
+    },
+    {
+      "bit_length": 39,
+      "entropy": 0.7793498372920851,
+      "information_content_bits": 30.394643654391317,
+      "redundancy": 0.22065016270791493,
+      "effective_bits": 30.394643654391317
+    },
+    {
+      "bit_length": 40,
+      "entropy": 0.8112781244591328,
+      "information_content_bits": 32.451124978365314,
+      "redundancy": 0.18872187554086717,
+      "effective_bits": 32.451124978365314
+    },
+    {
+      "bit_length": 41,
+      "entropy": 0.8014698931335288,
+      "information_content_bits": 32.86026561847468,
+      "redundancy": 0.1985301068664712,
+      "effective_bits": 32.86026561847468
+    },
+    {
+      "bit_length": 42,
+      "entropy": 0.7918583525674836,
+      "information_content_bits": 33.25805080783431,
+      "redundancy": 0.2081416474325164,
+      "effective_bits": 33.25805080783431
+    },
+    {
+      "bit_length": 43,
+      "entropy": 0.7824441294066888,
+      "information_content_bits": 33.64509756448762,
+      "redundancy": 0.21755587059331116,
+      "effective_bits": 33.64509756448762
+    },
+    {
+      "bit_length": 44,
+      "entropy": 0.7732266742876345,
+      "information_content_bits": 34.02197366865592,
+      "redundancy": 0.22677332571236553,
+      "effective_bits": 34.02197366865592
+    },
+    {
+      "bit_length": 45,
+      "entropy": 0.80235344282919,
+      "information_content_bits": 36.105904927313546,
+      "redundancy": 0.19764655717081003,
+      "effective_bits": 36.105904927313546
+    }
+  ],
+  "statistical_significance": {
+    "separation_arcmin": 1.73,
+    "prob_random": 6.331176914441946e-08,
+    "expected_matches": 8701.503293669872,
+    "observed_matches": 1,
+    "z_score": -93.27113143611761,
+    "p_value": 0.0,
+    "significance": "***"
+  },
+  "validation_criteria": {
+    "phi_ratios_found": true,
+    "bit_sequence_has_structure": true,
+    "coordinate_match_significant": true,
+    "multiple_encoding_schemes_converge": true,
+    "real_object_match": true
+  },
+  "conclusions": {
+    "are_we_valid": true,
+    "is_it_fair_to_say_star": true,
+    "is_37_bits_certain": false
+  }
+}
