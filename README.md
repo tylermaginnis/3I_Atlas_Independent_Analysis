@@ -99,6 +99,32 @@ This repository contains an independent analysis of the 3I/ATLAS signal data, re
 - **Information-theoretic metrics**: Entropy (0.484256), information content, and coordinate decoding
 - **Target**: HIP 21684 (HD 286941) - G5 Star at 492 light-years
 
+**Step-by-Step Process:**
+
+1. **Step 1: Constant Detection**
+   ![Phi+Log3 Step 1](visualizations/phi_log3_step1_constant_detection.png)
+   - Shows how ratios between consecutive values are calculated
+   - Demonstrates matching ratios to mathematical constants (PHI, LOG3, etc.)
+   - Illustrates the constant detection process
+
+2. **Step 2: Bit Assignment**
+   ![Phi+Log3 Step 2](visualizations/phi_log3_step2_bit_assignment.png)
+   - Shows encoding rule: PHI or LOG3 → 1, all others → 0
+   - Demonstrates how constants map to binary bits
+   - Visualizes the bit assignment process
+
+3. **Step 3: 37-bit Structure Extraction**
+   ![Phi+Log3 Step 3](visualizations/phi_log3_step3_structure_extraction.png)
+   - Shows how the 37-bit coordinate structure is extracted from the full bit sequence
+   - Demonstrates scanning through the sequence to find valid 37-bit segments
+   - Illustrates the structure extraction process
+
+4. **Step 4: Coordinate Decoding**
+   ![Phi+Log3 Step 4](visualizations/phi_log3_step4_coordinate_decoding.png)
+   - Shows how RA (18 bits) and Dec (19 bits) are decoded from the 37-bit structure
+   - Demonstrates conversion from binary to decimal to degrees
+   - Shows final coordinates matching HIP 21684
+
 #### Log3 Only Encoding (Galactic Scale)
 
 ![Log3 Only Binary Encoding](visualizations/log3_only_binary_encoding.png)
@@ -111,6 +137,32 @@ This repository contains an independent analysis of the 3I/ATLAS signal data, re
 - **Information-theoretic metrics**: Entropy analysis and coordinate decoding
 - **Target**: HIP 21684 (HD 286941) - G5 Star at 492 light-years
 
+**Step-by-Step Process:**
+
+1. **Step 1: Constant Detection**
+   ![Log3 Only Step 1](visualizations/log3_only_step1_constant_detection.png)
+   - Shows how ratios between consecutive values are calculated
+   - Demonstrates matching ratios to mathematical constants
+   - Illustrates the constant detection process
+
+2. **Step 2: Bit Assignment**
+   ![Log3 Only Step 2](visualizations/log3_only_step2_bit_assignment.png)
+   - Shows encoding rule: LOG3 → 1, all others → 0
+   - Demonstrates how constants map to binary bits
+   - Visualizes the bit assignment process
+
+3. **Step 3: 37-bit Structure Extraction**
+   ![Log3 Only Step 3](visualizations/log3_only_step3_structure_extraction.png)
+   - Shows how the 37-bit coordinate structure is extracted from the full bit sequence
+   - Demonstrates scanning through the sequence to find valid 37-bit segments
+   - Illustrates the structure extraction process
+
+4. **Step 4: Coordinate Decoding**
+   ![Log3 Only Step 4](visualizations/log3_only_step4_coordinate_decoding.png)
+   - Shows how RA (18 bits) and Dec (19 bits) are decoded from the 37-bit structure
+   - Demonstrates conversion from binary to decimal to degrees
+   - Shows final coordinates matching HIP 21684
+
 #### Diophantine v3 Encoding (Extragalactic Scale)
 
 ![Diophantine v3 Binary Encoding](visualizations/diophantine_v3_binary_encoding.png)
@@ -122,6 +174,32 @@ This repository contains an independent analysis of the 3I/ATLAS signal data, re
 - **Bit distribution**: Statistical analysis of 0s and 1s
 - **Information-theoretic metrics**: Entropy (0.996244 - nearly maximum), information content, and coordinate decoding
 - **Target**: LEDA 1363602 - Galaxy at 720 million light-years
+
+**Step-by-Step Process:**
+
+1. **Step 1: Constant Detection**
+   ![Diophantine v3 Step 1](visualizations/diophantine_v3_step1_constant_detection.png)
+   - Shows how ratios between consecutive values are calculated
+   - Demonstrates matching ratios to mathematical constants
+   - Illustrates the constant detection process
+
+2. **Step 2: Bit Assignment**
+   ![Diophantine v3 Step 2](visualizations/diophantine_v3_step2_bit_assignment.png)
+   - Shows encoding rule: bit = round(log₃(constant)) mod 2
+   - Demonstrates logarithmic encoding framework
+   - Visualizes the bit assignment process with base-3 logarithm
+
+3. **Step 3: 37-bit Structure Extraction**
+   ![Diophantine v3 Step 3](visualizations/diophantine_v3_step3_structure_extraction.png)
+   - Shows how the 37-bit coordinate structure is extracted from the full bit sequence
+   - Demonstrates scanning through the sequence to find valid 37-bit segments
+   - Illustrates the structure extraction process
+
+4. **Step 4: Coordinate Decoding**
+   ![Diophantine v3 Step 4](visualizations/diophantine_v3_step4_coordinate_decoding.png)
+   - Shows how RA (18 bits) and Dec (19 bits) are decoded from the 37-bit structure
+   - Demonstrates conversion from binary to decimal to degrees
+   - Shows final coordinates matching LEDA 1363602
 
 ### Decoded Coordinates Sky Map
 
