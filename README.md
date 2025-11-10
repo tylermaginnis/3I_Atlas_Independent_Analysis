@@ -85,6 +85,44 @@ This repository contains an independent analysis of the 3I/ATLAS signal data, re
 
 ## Visualizations
 
+### Binary Encoding Visualizations
+
+#### Phi+Log3 Encoding (Galactic Scale)
+
+![Phi+Log3 Binary Encoding](visualizations/phi_log3_binary_encoding.png)
+
+**Description**: Comprehensive binary encoding visualization for Phi+Log3 encoding technique:
+- **Full 37-bit sequence**: Complete binary representation showing bit pattern
+- **RA bits (18 bits)**: Right Ascension encoding section
+- **Dec bits (19 bits)**: Declination encoding section
+- **Bit distribution**: Statistical analysis of 0s and 1s
+- **Information-theoretic metrics**: Entropy (0.484256), information content, and coordinate decoding
+- **Target**: HIP 21684 (HD 286941) - G5 Star at 492 light-years
+
+#### Log3 Only Encoding (Galactic Scale)
+
+![Log3 Only Binary Encoding](visualizations/log3_only_binary_encoding.png)
+
+**Description**: Comprehensive binary encoding visualization for Log3 Only encoding technique:
+- **Full 37-bit sequence**: Complete binary representation showing bit pattern
+- **RA bits (18 bits)**: Right Ascension encoding section
+- **Dec bits (19 bits)**: Declination encoding section
+- **Bit distribution**: Statistical analysis of 0s and 1s
+- **Information-theoretic metrics**: Entropy analysis and coordinate decoding
+- **Target**: HIP 21684 (HD 286941) - G5 Star at 492 light-years
+
+#### Diophantine v3 Encoding (Extragalactic Scale)
+
+![Diophantine v3 Binary Encoding](visualizations/diophantine_v3_binary_encoding.png)
+
+**Description**: Comprehensive binary encoding visualization for Diophantine v3 encoding technique:
+- **Full 37-bit sequence**: Complete binary representation showing bit pattern
+- **RA bits (18 bits)**: Right Ascension encoding section
+- **Dec bits (19 bits)**: Declination encoding section
+- **Bit distribution**: Statistical analysis of 0s and 1s
+- **Information-theoretic metrics**: Entropy (0.996244 - nearly maximum), information content, and coordinate decoding
+- **Target**: LEDA 1363602 - Galaxy at 720 million light-years
+
 ### Decoded Coordinates Sky Map
 
 ![Decoded Coordinates Sky Map](visualizations/decoded_coordinates_sky_map.png)
